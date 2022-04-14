@@ -8,3 +8,4 @@ You can capture activity of your own assembly or even let it load an external as
 
 The logfile that results from this will contain EVERYTHING you could ever need.
 
+Ths project could be used for malware analysis (even when the sample is heavily obfuscated).
