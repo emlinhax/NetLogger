@@ -12,12 +12,13 @@ namespace SystemLoggingTrick
 {
     internal class Program
     {
+        public static string logFile = "System.Net.log";
         static void Main(string[] args)
         {
-            if (File.Exists("System.Net.log"))
-                File.Delete("System.Net.log");
+            if (File.Exists(logFile))
+                File.Delete(logFile);
 
-            Stream logFile = File.Create("System.Net.log");
+            Stream logFile = File.Create(logFile);
 
             //Get private logging class
             Assembly asm = typeof(System.Net.WebClient).Assembly;
