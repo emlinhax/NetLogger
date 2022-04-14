@@ -1,0 +1,8 @@
+C:\Users\emlin\Documents\GitHub\SystemLoggingTrick\SystemLoggingTrick\bin\Release\SystemLoggingTrick.exe.config
+C:\Users\emlin\Documents\GitHub\SystemLoggingTrick\SystemLoggingTrick\bin\Release\SystemLoggingTrick.exe
+C:\Users\emlin\Documents\GitHub\SystemLoggingTrick\SystemLoggingTrick\bin\Release\SystemLoggingTrick.pdb
+C:\Users\emlin\Documents\GitHub\SystemLoggingTrick\SystemLoggingTrick\obj\Release\SystemLoggingTrick.csproj.AssemblyReference.cache
+C:\Users\emlin\Documents\GitHub\SystemLoggingTrick\SystemLoggingTrick\obj\Release\SystemLoggingTrick.csproj.SuggestedBindingRedirects.cache
+C:\Users\emlin\Documents\GitHub\SystemLoggingTrick\SystemLoggingTrick\obj\Release\SystemLoggingTrick.csproj.CoreCompileInputs.cache
+C:\Users\emlin\Documents\GitHub\SystemLoggingTrick\SystemLoggingTrick\obj\Release\SystemLoggingTrick.exe
+C:\Users\emlin\Documents\GitHub\SystemLoggingTrick\SystemLoggingTrick\obj\Release\SystemLoggingTrick.pdb
