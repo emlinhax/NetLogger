@@ -1,7 +1,0 @@
-C:\Users\emlin\Documents\GitHub\SystemLoggingTrick\test\bin\Release\test.exe.config
-C:\Users\emlin\Documents\GitHub\SystemLoggingTrick\test\bin\Release\test.exe
-C:\Users\emlin\Documents\GitHub\SystemLoggingTrick\test\bin\Release\test.pdb
-C:\Users\emlin\Documents\GitHub\SystemLoggingTrick\test\obj\Release\test.csproj.AssemblyReference.cache
-C:\Users\emlin\Documents\GitHub\SystemLoggingTrick\test\obj\Release\test.csproj.CoreCompileInputs.cache
-C:\Users\emlin\Documents\GitHub\SystemLoggingTrick\test\obj\Release\test.exe
-C:\Users\emlin\Documents\GitHub\SystemLoggingTrick\test\obj\Release\test.pdb
